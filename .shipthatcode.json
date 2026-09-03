@@ -1,0 +1,42 @@
+{
+  "course": "build-base64",
+  "language": "rust",
+  "language_id": 73,
+  "entrypoint": "main.rs",
+  "version": 1,
+  "content_hash": "1b258c9e93164cc6",
+  "lessons": [
+    {
+      "slug": "why",
+      "tests_hash": "2851de07dcb8"
+    },
+    {
+      "slug": "alphabet",
+      "tests_hash": "119075aa3e84"
+    },
+    {
+      "slug": "encode-3to4",
+      "tests_hash": "4c8ad6de0cc8"
+    },
+    {
+      "slug": "padding",
+      "tests_hash": "4089e6c31cb5"
+    },
+    {
+      "slug": "decode-4to3",
+      "tests_hash": "634701f66686"
+    },
+    {
+      "slug": "errors",
+      "tests_hash": "6e1ba4ba086f"
+    },
+    {
+      "slug": "url-safe",
+      "tests_hash": "39e8b7dab404"
+    },
+    {
+      "slug": "full-b64",
+      "tests_hash": "155b5369d3c1"
+    }
+  ]
+}
