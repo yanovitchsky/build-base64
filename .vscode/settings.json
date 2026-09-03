@@ -1,0 +1,19 @@
+{
+  "[rust]": {
+    "editor.inlineSuggest.enabled": false
+  },
+  "cursor.cpp.disabledLanguages": [
+    "plaintext",
+    "markdown",
+    "scminput",
+    "rust"
+  ],
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "rust": false
+  },
+  "github.copilot.editor.enableAutoCompletions": false
+}

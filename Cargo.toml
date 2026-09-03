@@ -1,0 +1,8 @@
+[package]
+name = "build-base64"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "build-base64"
+path = "main.rs"
